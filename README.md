@@ -1,2 +1,1 @@
-# AWSCodeDeploy
-Testing CodeDeploy
+# github-codedeploy
